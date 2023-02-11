@@ -1,0 +1,10 @@
+New UI!
+    Welcome to CGB X V1.0.3's new UI!
+
+Features Added: 
+    Tabs
+    Auto Update Check
+    Multiple APIs
+    Themes!
+
+    
