@@ -1,0 +1,22 @@
+{
+    "Files": {
+        "EXEs":{
+            "MainExe": "",
+            "UpdateExe": "",
+
+            "Tools": {
+                "268FixExe": "",
+                "MultiRblxExe": ""
+            }
+        }
+        
+    },
+    "Settings": {
+        "Announcements": 
+        "",
+        
+        "Changelog": 
+        ""
+    }
+    
+}
